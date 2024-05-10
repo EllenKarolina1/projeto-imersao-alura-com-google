@@ -8,7 +8,7 @@ O CopyBot é um chatbot desenvolvido para auxiliar na criação de copys atrativ
 ## 🚀 Como usar o CopyBot:
 <ul>
   <li><span style= " font-weight: bolder"> Acesse o chatbot: </span> Inicie a conversa com o bot.</li>
-  <li>Descreva seu criativo:** Responda à pergunta sobre a imagem ou vídeo que será utilizado na campanha.</li>
+  <li> **Descreva seu criativo:** Responda à pergunta sobre a imagem ou vídeo que será utilizado na campanha.</li>
   <li>Defina o objetivo:** Informe se a campanha visa conversão (vendas) ou relacionamento (engajamento).</li>
   <li>Escolha o tom da copy:** Selecione entre opções como divertido, atencioso, sério ou profissional.</li>
   <li>Identifique seu nicho:** Especifique o segmento do seu produto ou serviço.</li>
