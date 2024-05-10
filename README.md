@@ -1,4 +1,4 @@
-# CopyBot: Seu Assistente de Copywriting para Instagram
+<h1 align="center">CopyBot: Seu Assistente de Copywriting para Instagram</h1>
 <p align="center">
   <img style='width: 50%' src="_e6c9630f-dcc9-40af-8324-de96330a7539.jpeg" />
 </p>
