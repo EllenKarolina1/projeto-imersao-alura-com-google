@@ -7,12 +7,12 @@
 O CopyBot é um chatbot desenvolvido para auxiliar na criação de copys atrativas e eficazes para seus posts no Instagram. Através de uma série de perguntas estratégicas, o bot identifica as características do seu negócio, produto e público-alvo, gerando sugestões de textos otimizados para campanhas de marketing.
 ## 🚀 Como usar o CopyBot:
 <ul>
-  <li> <span font-weight: bolder> Acesse o chatbot: </span> Inicie a conversa com o bot.</li>
-  <li> **Descreva seu criativo:** Responda à pergunta sobre a imagem ou vídeo que será utilizado na campanha.</li>
-  <li>Defina o objetivo:** Informe se a campanha visa conversão (vendas) ou relacionamento (engajamento).</li>
-  <li>Escolha o tom da copy:** Selecione entre opções como divertido, atencioso, sério ou profissional.</li>
+  <li><span font-weight: bolder>Acesse o chatbot:</span> Inicie a conversa com o bot.</li>
+  <li>**Descreva seu criativo:** Responda à pergunta sobre a imagem ou vídeo que será utilizado na campanha.</li>
+  <li>**Defina o objetivo:** Informe se a campanha visa conversão (vendas) ou relacionamento (engajamento).</li>
+  <li>**Escolha o tom da copy:** Selecione entre opções como divertido, atencioso, sério ou profissional.</li>
   <li>Identifique seu nicho:** Especifique o segmento do seu produto ou serviço.</li>
-  <li>Receba sugestões:** O CopyBot irá gerar opções de textos personalizadas com base nas suas respostas.</li>
+  <li>**Receba sugestões:** O CopyBot irá gerar opções de textos personalizadas com base nas suas respostas.</li>
 </ul>
 
 ## 🌟 História do projeto:
