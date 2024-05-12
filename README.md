@@ -17,3 +17,7 @@ O CopyBot é um chatbot desenvolvido para auxiliar na criação de copys atrativ
 
 ## 🌟 História do projeto:
 A ideia do CopyBot surgiu da necessidade de otimizar o processo de criação de copys para redes sociais, especialmente para empreendedores e profissionais de marketing que buscam maximizar o impacto de suas campanhas. A partir da análise de dados e técnicas de copywriting, o chatbot foi desenvolvido para oferecer um suporte inteligente e eficiente na elaboração de textos persuasivos e alinhados com os objetivos do usuário.
+
+## 🌟 Demonstrativo
+
+<img src="./docs/images/demo.png" />
