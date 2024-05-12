@@ -3,7 +3,7 @@ import os
 import google.generativeai as genai
 
 # Initialize Gemini-Pro 
-genai.configure(api_key="AIzaSyCd4pdtn-_YL0q9HE8NcGmv9ZFH6SrOTGk")
+genai.configure(api_key="AIzaSyDJGbQlBTpQK5Gceyv_7uNzNDBdooiMfe4")
 generation_config = {
     "candidate_count": 1,  # Número de sugestões a serem geradas
     "temperature": 0.5,   # Nível de criatividade (0 = mais conservador, 1 = mais criativo)
